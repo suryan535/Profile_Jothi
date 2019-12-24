@@ -1,0 +1,57 @@
+body {
+	background-color:#b3fff0;
+	
+}
+
+ul{
+	float:left;
+	background-color:#E27D60;
+	list-style-type:none;
+	margin:0px;
+	padding:0px;
+	width:100%;
+	border:2px solid black;
+}
+
+li a:hover{
+	background-color:#41B3A3;
+
+	
+}
+li a {
+	display:block;
+padding:20px;
+float:left;
+text-decoration:none;
+} 
+
+div.basket{
+	float:left;
+	margin-left:50px;
+	margin-top:150px;
+}
+div.basketimage{
+	float:right;
+	margin-right:50px;
+}
+div.badminton{
+	float:right;
+	margin-right:60px;
+	margin-top:150px;
+}
+div.badimage{
+	float:left;
+}
+div.coding{
+	float:left;
+	margin-top:120px;
+	width:50%;
+	text-align:center;
+}
+div.codimage{
+	float:right;
+	margin-right:50px;
+	padding:0px;
+	width:50%;
+	
+}

@@ -1,0 +1,42 @@
+body {
+	background-color:#b3fff0;
+	
+}
+img {
+	width:80%;
+	height:60%;
+	
+}
+ul{
+	float:left;
+	background-color:#E27D60;
+	list-style-type:none;
+	margin:0px;
+	padding:0px;
+	width:100%;
+	border:2px solid black;
+}
+
+li a:hover{
+	background-color:#41B3A3;
+
+	
+}
+li a {
+	display:block;
+padding:20px;
+float:left;
+text-decoration:none;
+
+
+}
+div.image{
+	float:left;
+	width:70%;
+}
+div.details{
+	float:left;
+	width:30%;
+	margin-top:400px;
+	
+}
